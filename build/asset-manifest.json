@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.850e412b.css",
+    "main.js": "/static/js/main.077fdf08.js",
+    "static/media/Screenshot 2024-01-31 215723.png": "/static/media/Screenshot 2024-01-31 215723.f3459b9f4d689fe5a986.png",
+    "static/media/Screenshot 2024-01-31 215200.png": "/static/media/Screenshot 2024-01-31 215200.bec1e0bc2cfc945cfe01.png",
+    "static/media/Screenshot 2024-01-31 215511.png": "/static/media/Screenshot 2024-01-31 215511.9c74ee239ed5070bd064.png",
+    "static/media/Screenshot 2024-01-31 215956.png": "/static/media/Screenshot 2024-01-31 215956.932190050066e0ed5fb5.png",
+    "static/media/Screenshot 2024-01-31 231813.png": "/static/media/Screenshot 2024-01-31 231813.ecf7cf5ab93ec633e1c3.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/Screenshot 2024-01-31 215536.png": "/static/media/Screenshot 2024-01-31 215536.f61d9173116627d1a2ea.png",
+    "static/media/Screenshot 2024-02-08 122909.png": "/static/media/Screenshot 2024-02-08 122909.c488b6cf378717b9d399.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/Screenshot 2024-01-31 215342.png": "/static/media/Screenshot 2024-01-31 215342.03dafa86e844fa1c2169.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/Screenshot 2024-01-31 215355.png": "/static/media/Screenshot 2024-01-31 215355.333ef8d37cf1b9c281f5.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/structure_3334886.png": "/static/media/structure_3334886.4127b36258b5e9dc8f88.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/_Pngtree_letter_j_jj_monogram_logo_5057981-removebg-preview.png": "/static/media/_Pngtree_letter_j_jj_monogram_logo_5057981-removebg-preview.108523a1782fd3ca5a46.png",
+    "static/media/html_1051277.png": "/static/media/html_1051277.6e930594286d8afe4c79.png",
+    "static/media/css-3_732190.png": "/static/media/css-3_732190.463e319bad8e0edf1ef7.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.850e412b.css.map": "/static/css/main.850e412b.css.map",
+    "main.077fdf08.js.map": "/static/js/main.077fdf08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850e412b.css",
+    "static/js/main.077fdf08.js"
+  ]
+}
